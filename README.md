@@ -7,6 +7,6 @@ This Specialization, in collaboration with Tableau, is intended for newcomers to
 By the end of this specialization, you will be able to generate powerful reports and dashboards that will help people make decisions and take action based on their business data. You will use Tableau to create high-impact visualizations of common data analyses to help you see and understand your data. You will apply predicative analytics to improve business decision making.  The Specialization culminates in a Capstone Project in which you will use sample data to create visualizations, dashboards, and data models to prepare a presentation to the executive leadership of a fictional company. 
 
 ### Courses in this Specialization
-**Course 1:** Fundamentals of Visualization with Tableau
+**Course 1:** Fundamentals of Visualization with Tableau https://github.com/cmaroblesg/Data_Visualization_with_Tableau/tree/master/M1_Fundamentals_of_Visualization_with_Tableau
 
-**Course 2:** Essential Design Principles for Tableau
+**Course 2:** Essential Design Principles for Tableau https://github.com/cmaroblesg/Data_Visualization_with_Tableau/tree/master/M2_Essential_Design_Principles_for_Tableau
