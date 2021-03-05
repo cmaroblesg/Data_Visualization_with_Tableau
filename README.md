@@ -8,3 +8,4 @@ By the end of this specialization, you will be able to generate powerful reports
 
 ### Courses in this Specialization
 #### Course 1: Fundamentals of Visualization with Tableau
+#### Course 2: Essential Design Principles for Tableau
