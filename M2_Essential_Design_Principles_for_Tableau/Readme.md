@@ -8,7 +8,8 @@ Here you can find some important information such as websites and readings (book
 
 ## Peer-graded Activity
 In this section, you can find the Peer-graded activity as well as the Tableau dashboard design.
-* [Sylvia-Persona.pdf](/"Peer-graded Activity"/Sylvia-Persona.pdf)
-* [Sales-Superstore-Dataset.xslx](/"Peer-graded Activity"/Sales-Superstore-Dataset.xslx)
+* [Sylvia-Persona.pdf](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M2_Essential_Design_Principles_for_Tableau/Peer-graded%20Activity/Sylvia-Persona.pdf)
+* [Sales-Superstore-Dataset.xslx](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M2_Essential_Design_Principles_for_Tableau/Peer-graded%20Activity/Sales-Superstore-Dataset.xlsx)
 * [ACME Sales Analysis.pdf](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M2_Essential_Design_Principles_for_Tableau/Peer-graded%20Activity/ACME%20Sales%20Analysis.pdf)
-* [Tableau Dashboard](/"Peer-graded Activity"/ACME_Sales_Analysis.twbx)
+* [Tableau Dashboard download](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M2_Essential_Design_Principles_for_Tableau/Peer-graded%20Activity/ACME_Sales_Analysis.twbx)
+* [Tableau Dashboard online](https://public.tableau.com/profile/cesar.robles#!/vizhome/ACME_Sales_Analysis/Dashboard1?publish=yes)
