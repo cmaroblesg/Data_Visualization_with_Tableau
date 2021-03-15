@@ -21,3 +21,4 @@ The variables you will need to use to complete the task are:
 
 
 #### Here is what you are trying to replicate:
+https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Y3eXCSbZEeejEg4SqUr0SA_f7f8abc58e792e852c51d26680403ffd_Customer-Scattterplot-Peer-Activity.png?expiry=1615939200000&hmac=ZnRhCLAkg3lhhIwR4GC42ng6Xa7j1TPwJzQ7ClZzdWc![image](https://user-images.githubusercontent.com/35857969/111102887-bf47ee80-8512-11eb-8d1f-e864d148ae1b.png)
