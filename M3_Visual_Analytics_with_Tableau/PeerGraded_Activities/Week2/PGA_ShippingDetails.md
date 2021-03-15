@@ -7,7 +7,7 @@ Your company has tasked you with analyzing your company’s shipping status and 
 
 ### Files
 (Be sure to download the dataset below, as it is different from previous ones used in this course.)\
-[Sales Super Store](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/Week2/images/Sales_Superstore_Dataset.xlsx)
+[Sales Super Store](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/Week2/files/Sales_Superstore_Dataset.xlsx)
 
 ### Review criteria
 
@@ -18,5 +18,5 @@ The variables you will need to use to complete the task are:
 * Ship Status (Calculated Field)
 * Ship Mode
 
-Your completed chart will look like the following:
-![Peer-graded Shipping Details Activity](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/Week2/files/Shipping_Details_Peer_Activity.png)
+Your completed chart will look like the following:\
+![Peer-graded Shipping Details Activity](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/Week2/images/Shipping_Details_Peer_Activity.png)
