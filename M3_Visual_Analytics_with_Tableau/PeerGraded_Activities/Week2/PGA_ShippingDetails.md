@@ -19,3 +19,4 @@ The variables you will need to use to complete the task are:
 * Ship Mode
 
 Your completed chart will look like the following:
+![Peer-graded Shipping Details Activity](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/Week2/files/Shipping_Details_Peer_Activity.png)
