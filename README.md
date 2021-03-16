@@ -11,5 +11,4 @@ By the end of this specialization, you will be able to generate powerful reports
 
 **Course 2:** Essential Design Principles for Tableau https://github.com/cmaroblesg/Data_Visualization_with_Tableau/tree/master/M2_Essential_Design_Principles_for_Tableau
 
-**Course 3:** Visual Analytics with Tableau
-https://github.com/cmaroblesg/Data_Visualization_with_Tableau/tree/master/M3_Visual_Analytics_with_Tableau/tree/master/M3_Visual_Analytics_with_Tableau
+**Course 3:** Visual Analytics with Tableau https://github.com/cmaroblesg/Data_Visualization_with_Tableau/tree/master/M3_Visual_Analytics_with_Tableau
