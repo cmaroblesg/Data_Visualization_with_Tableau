@@ -6,5 +6,5 @@ In this third course of the specialization, we’ll drill deeper into the tools 
 
 This course is splitted into 4 weeks, in which you have to complete a quiz and a peer-graded activity.
 * **Week 1:** [Customer Scatterplot](./PeerGraded_Activities/Week1/W1_PeerGraded-Assignment_Customer-ScatterPlot.md)
-* **Week 2: ** [Shipping Details](./PeerGraded_Activities/Week2/PGA_ShippingDetails.md)
-* **Week 3: ** [Sales Spotlight](./PeerGraded_Activities/Week3/Sales_Spotlight.md)
+* **Week 2:** [Shipping Details](./PeerGraded_Activities/Week2/PGA_ShippingDetails.md)
+* **Week 3:** [Sales Spotlight](./PeerGraded_Activities/Week3/Sales_Spotlight.md)
