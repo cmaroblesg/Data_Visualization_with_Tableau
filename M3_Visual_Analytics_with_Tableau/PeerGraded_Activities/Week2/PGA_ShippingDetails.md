@@ -20,4 +20,4 @@ The variables you will need to use to complete the task are:
 
 Your completed chart will look like the following:\
 ![Peer-graded Shipping Details Activity](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/Week2/images/Shipping_Details_Peer_Activity.png)
-[PGA_Shipping-Deyails](https://public.tableau.com/profile/cesar.robles#!/vizhome/PGA_ShippingDetails/ShippingDetails)
+[PGA_Shipping-Details](https://public.tableau.com/profile/cesar.robles#!/vizhome/PGA_ShippingDetails/ShippingDetails)
