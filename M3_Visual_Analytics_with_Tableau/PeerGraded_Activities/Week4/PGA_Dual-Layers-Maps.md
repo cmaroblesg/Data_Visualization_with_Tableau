@@ -20,4 +20,4 @@ The variables you will need to use to complete the task are:
 
 #### Here is what you are trying to replicate:
 ![Dual-Layers-Map](./images/Dual-Layer-Maps-Peer-Activity.png)
-[Dual-Layers-Map]()
+[Dual-Layers-Map](https://public.tableau.com/profile/cesar.robles#!/vizhome/PGA_Dual-Layers-Map_Coursera/DualLayerMaps?publish=yes)
