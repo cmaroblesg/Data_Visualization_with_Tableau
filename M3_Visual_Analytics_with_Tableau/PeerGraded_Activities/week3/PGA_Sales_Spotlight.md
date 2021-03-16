@@ -21,3 +21,4 @@ The variables you will need to use to complete the task are:\
 
 #### Here is what you are trying to replicate:
 ![Sales Spotlight](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/week3/images/Sales-Spotlight-Peer-Activity.png)
+[PGA_Sales-Spotlight](https://public.tableau.com/profile/cesar.robles#!/vizhome/PGA_Sales-Spotlight/SalesSpotlight)

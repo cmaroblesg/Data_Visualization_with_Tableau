@@ -22,3 +22,4 @@ The variables you will need to use to complete the task are:
 
 #### Here is what you are trying to replicate:
 ![Customer Scatterplot](https://github.com/cmaroblesg/Data_Visualization_with_Tableau/blob/master/M3_Visual_Analytics_with_Tableau/PeerGraded_Activities/Week1/images/Customer-Scattterplot-Peer-Activity.png)
+[PGA_Customer-Scatterplot](https://public.tableau.com/profile/cesar.robles#!/vizhome/PGA_Scatterplot/Scatterplot)
