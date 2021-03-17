@@ -5,4 +5,4 @@ Leveraging the visualizations you created in the previous course, Visual Analyti
 You will balance the goals of your stakeholders with the needs of your end-users, and be able to structure and organize your story for maximum impact. Throughout the course you will apply more advanced functions within Tableau, such as hierarchies, actions and parameters to guide user interactions.  For your final project, you will create a compelling narrative to be delivered in a meeting, as a static report, or in an interactive display online.
 
 ## Readings:
-* [Tale of 100 Entrepreneurs – Decisive Data](https://www.tableau.com/solutions/gallery/tale-100-entrepreneurs){:target='_blank;'}
+* [Tale of 100 Entrepreneurs – Decisive Data](https://www.tableau.com/solutions/gallery/tale-100-entrepreneurs)

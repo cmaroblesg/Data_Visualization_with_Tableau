@@ -6,3 +6,11 @@ After reading the project brief and the personas, answer the questions provided 
 
 ### Files:
 [Basic Data Storytelling Design Checklist-TEMPLATE.pdf](./files/Basic-Data-Storytelling-Design-Checklist-TEMPLATE.pdf)
+
+### Design Checklist
+Please answer the following questions based on the project brief and user personas provided to create your Design Checklist for this project:
+
+* What is/are the **business question(s)** this project will answer?
+* **What data will be used** to answer this question?  **Is the data capable** of providing the information you are looking for?
+* **Who is the audience** of this visualization (to whom are these findings ultimately being presented)?
+* **How will your findings ultimately be displayed?**  Please list any special requirements of the user.
