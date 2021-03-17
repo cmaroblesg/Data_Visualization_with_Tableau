@@ -13,3 +13,6 @@ Welcome to the first module of this course! In the following modules, you will l
 
 ## Dashboards:
 * [Tale of 100 Entrepreneurs – Decisive Data](https://www.tableau.com/solutions/gallery/tale-100-entrepreneurs)
+
+## Peer-Graded Activity:
+* [Practice Peer-graded Assignment: Part 1: Create a Design Checklist](./Peer-graded_Assignment_Create_a_Design_Checklist.md)
