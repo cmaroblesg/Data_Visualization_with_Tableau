@@ -12,3 +12,5 @@ By the end of this specialization, you will be able to generate powerful reports
 **Course 2:** [Essential Design Principles for Tableau](./M2_Essential_Design_Principles_for_Tableau/Readme.md)
 
 **Course 3:** [Visual Analytics with Tableau](./M3_Visual_Analytics_with_Tableau/README.md)
+
+**Course 4:** [Creating Dashboards and Storytelling with Tableau](./M4_Creating_Dashboards_and_Storytelling_with_Tableau/READmE.md)
