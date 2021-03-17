@@ -6,3 +6,6 @@ You will balance the goals of your stakeholders with the needs of your end-users
 
 ## Readings:
 * [Tale of 100 Entrepreneurs – Decisive Data](https://www.tableau.com/solutions/gallery/tale-100-entrepreneurs)
+
+## Activities:
+* **Week 1:** [Practice Peer-graded Assignment: Part 1: Create a Design Checklist](./Week1/Peer-graded_Assignment_Create_a_Design_Checklist.md)
