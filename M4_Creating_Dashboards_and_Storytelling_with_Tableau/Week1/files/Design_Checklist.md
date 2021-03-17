@@ -31,4 +31,4 @@ This checklist is meant to be a reminder of some important considerations for yo
   * Data must be very clear and simple to the reader.
 * **Presentation Vehicle** – Tableau Public Dashboard, tablet, phone, desktop, slide deck.
 
-[Design_Checklist](./Design_Checklist.pdf)
+* **Downloaded version:** [Design_Checklist](./Design_Checklist.pdf)
