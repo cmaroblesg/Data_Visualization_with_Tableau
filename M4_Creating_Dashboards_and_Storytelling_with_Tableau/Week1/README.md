@@ -8,8 +8,11 @@ Welcome to the first module of this course! In the following modules, you will l
 * This article from the VP of Research and Design at Tableau Software, Jock Mackinlay, confirms the importance of storytelling in making a human connection with data. The article provides some useful considerations for crafting data stories and reinforces many of the techniques included in this lesson. Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, [Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau Software](https://www.tableau.com/learn/whitepapers/data-storytelling-using-visualization-share-human-impact-numbers) (Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau)
 * This Harvard Business Review article emphasizes among other things, the importance of considering the audience when crafting data stories.  Think about how the author describes the various audience profiles, and how you might incorporate that into your design checklist. Strikeleather, Jim, How to Tell a Story With Data, Harvard Business Review, 2013 (https://hbr.org/2013/04/how-to-tell-a-story-with-data)
 
-## Others:
-[Project Brief](./files/Project_Brief.md)
+## Others & Files:
+* [Project Brief](./files/Project_Brief.md)
+* [Sylvia Persona.pdf](./files/Sylvia-Persona.pdf)
+* [Terrence Persona.pdf](./files/Terrence-Persona.pdf)
+* [Sample - Superstore for Tableau.xlsx](./files/Sample---Superstore-for-Tableau.xlsx)
 
 ## Dashboards:
 * [Tale of 100 Entrepreneurs – Decisive Data](https://www.tableau.com/solutions/gallery/tale-100-entrepreneurs)
