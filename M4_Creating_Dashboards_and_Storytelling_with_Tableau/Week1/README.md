@@ -12,7 +12,7 @@ Welcome to the first module of this course! In the following modules, you will l
 * [Project Brief](./files/Project_Brief.md)
 * [Sylvia Persona.pdf](./files/Sylvia-Persona.pdf)
 * [Terrence Persona.pdf](./files/Terrence-Persona.pdf)
-* [Sample - Superstore for Tableau.xlsx](./files/Sample---Superstore-for-Tableau.xlsx)
+* [Sample - Superstore for Tableau.xlsx](./files/Sample---Superstore-for-Tableau.xls)
 
 ## Dashboards:
 * [Tale of 100 Entrepreneurs – Decisive Data](https://www.tableau.com/solutions/gallery/tale-100-entrepreneurs)
