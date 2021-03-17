@@ -14,3 +14,7 @@ Please answer the following questions based on the project brief and user person
 * **What data will be used** to answer this question?  **Is the data capable** of providing the information you are looking for?
 * **Who is the audience** of this visualization (to whom are these findings ultimately being presented)?
 * **How will your findings ultimately be displayed?**  Please list any special requirements of the user.
+
+### Documents to submit:
+* [Design Checklist](./files/Design_Checklist.pdf)
+* [Design Checklist - text](./files/Design_Checklist.md)
