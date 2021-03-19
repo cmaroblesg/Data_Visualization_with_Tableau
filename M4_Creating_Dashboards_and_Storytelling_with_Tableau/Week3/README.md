@@ -18,4 +18,4 @@ Welcome to Module 3. In this module, you will go from learning Tableau's six bes
 * Another short and sweet post that is more audience-centric than Kanter’s. **5 Key Principles of a Good Dashboard Design That We Need to Know**: [https://www.netsolutions.com/insights/good-dashboard-design-principles/](https://www.netsolutions.com/insights/good-dashboard-design-principles/)
 
 ## Peer-graded Assignment: Creating a Dashboard
-* [Creating a Dashboard](./files/PGA_Creating_a_Dashboard.md)
+* [Creating a Dashboard](./PGA_Creating_a_Dashboard.md)
