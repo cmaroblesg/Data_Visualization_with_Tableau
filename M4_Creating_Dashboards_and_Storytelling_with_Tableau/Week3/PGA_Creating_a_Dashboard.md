@@ -27,3 +27,5 @@ Other possible KPIs to consider for this project are:
 
 ## Result:
 ![map.png](./images/map.png)
+
+[PGA_Creating_a_Dashboard](https://public.tableau.com/profile/cesar.robles#!/vizhome/PGA_Creating_a_Dashboard/Dashboard1)
