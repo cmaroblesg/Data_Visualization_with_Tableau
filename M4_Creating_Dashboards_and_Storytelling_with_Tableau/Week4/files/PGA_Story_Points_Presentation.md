@@ -4,7 +4,7 @@
 
 Please review the project brief, personas, and the work you have done to this point for parts 1-3.
 * [PGA_Create_a_Design_Checklist](../../Week1/Peer-graded_Assignment_Create_a_Design_Checklist.md)
-* [PGA_Creating_a_Dashboard](../../Week2/PGA_Creating_a_Dashboard.md)
+* [PGA_Creating_a_Dashboard](../../Week3/PGA_Creating_a_Dashboard.md)
 
 Now, you will create the final deliverable for Sylvia to present your analysis to company stakeholders. Sylvia will ultimately be presenting these findings both on handouts as a single-frame visualization (optional activity), and in a multi-slide Story Points presentation to board members. The single-frame visualization will be included on hand-outs in the board meeting.
 
