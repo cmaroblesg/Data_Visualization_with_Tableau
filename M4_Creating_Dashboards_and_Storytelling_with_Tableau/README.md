@@ -8,3 +8,4 @@ You will balance the goals of your stakeholders with the needs of your end-users
 * **Week 1:** [Planning and Preproduction: Aligning your Audience, Stakeholders, and Data](./Week1/README.md)
 * **Week 2:** [Key Metrics, Indicators, and Decision Triggers](./Week2/README.md)
 * **Week 3:** [Dashboard and Storytelling with Data](./Week3/README.md)
+* **Week 4:** [Story Points Presentation](./Week4/README.md)
