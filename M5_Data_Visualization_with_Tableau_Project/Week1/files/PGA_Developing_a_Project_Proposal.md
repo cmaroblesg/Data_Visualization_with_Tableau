@@ -20,9 +20,9 @@ You will need to thoroughly examine those suggestions in the design checklist to
 Who. You will need to identify who your final presentation is intended for: stakeholders, audience, subject-matter experts, a combo, or other? You will create a persona document for each "Who" you have identified and the goals of each user (see more information below on creating a persona).
 * **What.** You will need to identify your dataset (see more information on selecting data below) and describe why you chose the data set you chose.
 * **How.** Once you have identified the other elements, provide an initial opinion as to how you think you present your findings. This will obviously evolve as you move through the milestones.
-* **Challenges.*+ Your proposal should conclude with any foreseeable challenges you are expecting to face and areas you hope to gain more experience. Include specific questions for your peers in this area.
+* **Challenges.** Your proposal should conclude with any foreseeable challenges you are expecting to face and areas you hope to gain more experience. Include specific questions for your peers in this area.
 
-[Basic-Data-Storytelling-Design-Checklist](./files/Basic-Data-Storytelling-Design-Checklist-TEMPLATE.pdf)
+[Basic-Data-Storytelling-Design-Checklist](./Basic-Data-Storytelling-Design-Checklist-TEMPLATE.pdf)
 
 ## Creating Persona Document(s)
 To begin creating your persona document(s), we recommend you begin by reading the information about [Persona development provided by usability.gov](https://www.usability.gov/how-to-and-tools/methods/personas.html). Though primarily written for web-oriented projects, this website provides a good primer on considerations for creating Persona documents for a wide range of uses.
