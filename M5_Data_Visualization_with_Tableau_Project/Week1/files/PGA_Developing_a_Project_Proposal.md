@@ -40,8 +40,8 @@ For this project, your Persona document(s) must capture the following informatio
 * (Optional) Any other relevant notes
 
 Attached are two examples of Persona documents.
-[Sylvia-Persona.pdf](./Sylvia-Persona.pdf)
-[Terrence-Persona.pdf](./Terrence-Persona.pdf)
+* [Sylvia-Persona.pdf](./Sylvia-Persona.pdf)
+* [Terrence-Persona.pdf](./Terrence-Persona.pdf)
 
 ## Guidelines for Selecting a Dataset
 

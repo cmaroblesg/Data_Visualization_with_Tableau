@@ -14,3 +14,5 @@ By the end of this specialization, you will be able to generate powerful reports
 **Course 3:** [Visual Analytics with Tableau](./M3_Visual_Analytics_with_Tableau/README.md)
 
 **Course 4:** [Creating Dashboards and Storytelling with Tableau](./M4_Creating_Dashboards_and_Storytelling_with_Tableau/README.md)
+
+**Course 5:** [Data Visualization with Tableau project](./M5_Data_Visualization_with_Tableau_Project/README.md)
