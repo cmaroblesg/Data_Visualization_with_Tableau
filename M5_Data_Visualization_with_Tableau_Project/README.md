@@ -10,3 +10,4 @@ Good luck as you get started, and I hope you enjoy the course!
 
 # Module Structure:
 * **Week 1:** [Getting Started and Milestone 1: Develop a Project Proposal](./Week1/README.md)
+* **Week 2:** [Milestone 2: Importing and Prepping the Data](./Week2/README.md)
