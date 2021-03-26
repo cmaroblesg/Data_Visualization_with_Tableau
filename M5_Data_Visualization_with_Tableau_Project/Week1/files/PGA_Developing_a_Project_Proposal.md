@@ -54,4 +54,4 @@ At this stage, you may have already identified the dataset you would like to use
 5. You should have permission to use the data and be able to post it publicly on 6. Tableau Public as it is the only way to share your visualizations for peer feedback.
 
 ## Deliverable:
-* [PGA_Developing_a_Project.pdf](./PGA_Developing_a_Project.pdf)
+* [PGA_Developing_a_Project.pdf](./PGA_Develoving_a_Project_Proposal_Final.pdf)
