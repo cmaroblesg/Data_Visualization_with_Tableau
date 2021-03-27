@@ -1,0 +1,15 @@
+{
+    "paths":
+    {
+        "Databases":"/Users/c.marcoa.roblesg./Documents/Projects/Data_Visualization_with_Tableau/M5_Data_Visualization_with_Tableau_Project/Week2/Databases",
+        "dataset_url":"http://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip",
+        "dictionary_url":"http://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip"
+    },
+    "files":
+    {
+        "dataset_zip":"datos_abiertos_covid19.zip",
+        "dictionary_zip":"diccionario_datos_covid19.zip",
+        "open_data":"datos_abiertos_covid19.csv",
+        "dictionary":"diccionario_datos_covid19"
+    }
+}
