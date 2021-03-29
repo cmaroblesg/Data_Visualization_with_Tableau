@@ -20,3 +20,19 @@ On your screenshot (picture), your peers will be looking for the following chara
 
 ### Your Data Cleaning Process
 Write a discussion entry that describes what data cleanliness issues you found in your chosen dataset(s), and what measures or steps were taken to correct those issues. Be sure to indicate why you took the steps you took.  For instance, did you remove outliers, change variables, normalize values? Why did you take these steps?  If you didn’t need to take any steps to clean the data, please indicate that in your write-up.
+
+### Final Submission:
+#### Executive summary
+One of the most important task in the Data Analysis is to get a database to be used and analyzed. For this particular project, It is using the COVID-19 reported cases.\
+This information can download free directly from the source: [Open Access Mexican Reported Cases](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico).\
+Moreover, to understand and process the information it is also necessary to download the data dictionaries: [Open Access Mexican Data Dictionaries](http://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip).
+
+The main goal of this project is to create a lockdown semaphore to stop non-essential activities in the country group by state.
+The database contains all the reported cases in the region. The local government created a database in which the hospitals, clinics, laboratories and other health building report the cases daily.
+Moreover, this dataset contains not only the positive cases, it contains also negative and false detections.
+* Thus, the first part is related to the extraction of the positive-confirmed COVID-19 cases.
+* Then, join the catalogues to the database to fully understand the content.
+* The third part is to clean the database, this process includes the correction of typos, misspelling and grammar in the fields, convert date fields into date-stamps format, eliminate repetitions and blank spaces and convert some columns into numeric information.
+* Finally, the information is stored into a *.csv file format and uploaded into Tableau.
+
+[Data Import and Preparation Peer-Graded Activity](./PGA_Data_Import_and_Preparation.pdf)
