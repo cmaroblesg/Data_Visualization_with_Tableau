@@ -12,4 +12,4 @@ In this milestone, you will take a short but essential break from the data visua
 * **Tell the Story of Your Data** [Module 4: Tell the Story of Your Data, from the course Creating Dashboards and Storytelling with Tableau](https://www.coursera.org/learn/dataviz-dashboards/home/week/4)
 
 ## Peer-Graded Assignment
-* [PGA_Storytellnig_and_Storyboarding](./files/PGA_Storytellnig_and_Storyboarding.md)
+* [PGA_Storytellnig_and_Storyboarding](./files/PGA_Storytelling_and_Storyboarding.md)
