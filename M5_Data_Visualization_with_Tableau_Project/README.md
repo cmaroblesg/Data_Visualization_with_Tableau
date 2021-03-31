@@ -14,3 +14,4 @@ Good luck as you get started, and I hope you enjoy the course!
 * **Week 3:** [Milestone 3: Exploratory Analysis](./Week3/README.md)
 * **Week 4:** [Milestone 3: Exploratory Analysis and Dashboard Submission](./Week4/README.md)
 * **Week 5:** [Milestone 4: Storytelling and Storyboarding](./Week5/README.md)
+* **Week 6:** [Milestone 5: Final Presentation](./Week6/README.md)
