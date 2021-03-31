@@ -28,7 +28,7 @@ Specifically, your peers will be looking for the following elements in your subm
 * Include a written explanation for why you chose a single-frame visualization or infographic as your final deliverable.
 
 ## Solution
+[Single-Frame Dashboard](https://public.tableau.com/profile/cesar.robles#!/vizhome/COVID-19_Mexican_Analysis/MexicanCOVID-19LockdownAnalysis?publish=yes)\
 **Submit your written explanation for why you chose to make a multi-frame data story or a single-frame visualization/infographic over the other option.**\
 I've decided to use a single-frame visualization to focus the attention to the confirmed cases in the country as well as the lockdown semaphore that determines which activities remains open. Also, it is compared the most affected people by gender and age range. This analysis was made to analyse the posibility to create a vaccination campaign in order to demise the propagation along the country and the state.
 The main difference is the interactivity with the user, meanwhile into multi-frame you need to create a whole story and focus the attention slide by slide. Into a single, frame the user focus its attention to the main view and can play with the dashboard.
-[Single-Frame Dashboard](https://public.tableau.com/profile/cesar.robles#!/vizhome/COVID-19_Mexican_Analysis/MexicanCOVID-19LockdownAnalysis?publish=yes)
