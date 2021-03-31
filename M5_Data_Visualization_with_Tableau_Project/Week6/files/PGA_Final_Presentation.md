@@ -5,7 +5,7 @@ You will apply the final design to your visualization or data story, using your 
 As part of your submission, you will need to include your original project proposal
 
 ## Review criteria
-[PGA_Final_Presentation](./PGA_Final_Presentation.pdf)\
+[PGA_Final_Presentation](./PGA_Final_Presentatiion.pdf)\
 Your final submission will include:
 * A URL to your final viz or data story on Tableau Public
 * A write up highlighting three specific design choices you made in light of your audience, and an explanation of why you made those choices
