@@ -30,7 +30,7 @@ Also, include discuss your thoughts on the exploratory process in general.
 * What surprised you and what did you find difficult?
 
 ## Solution
-[PGA_Exploratory_Analysis_and_Dashboards](https://public.tableau.com/profile/cesar.robles#!/vizhome/COVID-19_Mexican_Analysis/CasesintheCountry)/
+[PGA_Exploratory_Analysis_and_Dashboards](https://public.tableau.com/profile/cesar.robles#!/vizhome/COVID-19_Mexican_Analysis/CasesintheCountry)\
 **Questions**\
 **Why are these KPIs key to answering your business question or achieving your project goals? What specific insight did these KPIs or worksheets provide you?**
 The KPIs shows the number of COVID-19 confirmed cases in the country, the current number of active illed people and the number of deaths.
